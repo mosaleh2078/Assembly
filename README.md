@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Assembly Learning Repository</h1>
+<h1 align="center">🛠️ Assembly Repository</h1>
 
 <p align="center">
 Educational resources and example programs for learning Assembly language.<br>
